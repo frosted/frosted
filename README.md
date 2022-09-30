@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @frosted
 - 👀 I’m interested in Powershell
-- 🌱 I’m currently learning Microsoft Azure
+- 🌱 I’m currently learning Jekyll to create my new blog
 - 💞️ I’m looking to collaborate on any Powershell projects
 - 📫 How to reach me on [LinkedIn](https://www.linkedin.com/in/pefrost/)
 
